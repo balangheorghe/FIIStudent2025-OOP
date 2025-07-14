@@ -136,9 +136,6 @@ int main()
     g += &camion;
     g.pornesteVehicule();
 
-    std::cout << "\n============================================\n\n";
-    std::cout << "Fac un delete explicit\n";
-    delete &g;
 
     std::cout << "\n============================================\n\n";
 
